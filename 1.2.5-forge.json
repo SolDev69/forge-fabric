@@ -10,9 +10,11 @@
   "downloads": {
     "client": {
       "url": "https://github.com/TwelvianZeta/forge-fabric/raw/main/minecraft_forge.jar"
+	  "sha1": "bcc1b41da99bccf9ee53bda30777d9d5bfbb7608"
     },
     "server": {
       "url": "https://github.com/TwelvianZeta/forge-fabric/raw/main/minecraft_server_forge.jar"
+	  "sha1": "48a975365a45becdd626979fe6cb42bd43748c79"
     }
   },
   "id": "1.2.5-forge",
